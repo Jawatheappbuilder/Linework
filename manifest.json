@@ -1,0 +1,19 @@
+{
+  "name": "Powerline Field Companion",
+  "short_name": "Field Companion",
+  "description": "Powerline quick-reference and training tools",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#062b55",
+  "icons": [
+    {
+      "src": "powerline-app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
